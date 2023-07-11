@@ -93,3 +93,15 @@ margin-top: 10px;
   margin-top: 95px;
   margin-left: 22px;
 }
+.icon-section{
+  background-color:rgba(255, 228, 196, 0.348);
+  width: 70%;
+  text-align: center;
+}
+.icon-section{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  padding: 30px;
+}
