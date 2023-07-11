@@ -38,6 +38,7 @@ margin-top: 40px;
 .description{
 font-size: 12px;
 margin-top: 10px;
+color: #27272799;
 }
 .main-text{
   text-align: center;
@@ -104,4 +105,41 @@ margin-top: 10px;
   align-items: center;
   margin: auto;
   padding: 30px;
+}
+.hotdeal-container{
+  display: flex;
+  background-color: #e5547326;
+  justify-content: space-around;
+  align-items: center;
+  height: 60vh;
+  text-align: center;
+  margin-top: 90px;
+}
+.hotdeal-img{
+  width: 170px;
+}
+.hotdeal-text{
+  /*
+   margin-top: 30px; */
+}
+.hotdeal-heading{
+  font-size: 42px;
+}
+.color-text{
+  color: #E55473;
+}
+.hotdeal-description{
+  text-align: center;
+ color:#27272799
+  
+}
+.instagram-heading{
+  text-align: center;
+  margin-top: 120px;
+}
+.instagram-description{
+  font-size: 12px;
+  color: #27272799;
+  padding-top: 30px;
+
 }
