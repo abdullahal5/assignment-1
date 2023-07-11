@@ -221,3 +221,7 @@ text-align: center;
   justify-content: center;
   gap: 10px;
 }
+.icon-text{
+  color: #272727;
+  font-family:serif;
+}
